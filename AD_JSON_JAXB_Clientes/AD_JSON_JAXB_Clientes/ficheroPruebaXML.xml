@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clientes>
+    <cliente>
+        <apellido>String</apellido>
+        <apellido>String</apellido>
+        <direccion>
+            <calle>String String</calle>
+            <piso>0</piso>
+            <cp>11</cp>
+            <ciudad>String</ciudad>
+        </direccion>
+        <direccion>
+            <calle>String String</calle>
+            <piso>0</piso>
+            <cp>12</cp>
+            <ciudad>String</ciudad>
+        </direccion>
+        <telefono>String</telefono>
+    </cliente>
+    <cliente>
+        <apellido>String</apellido>
+        <apellido>String</apellido>
+        <direccion>
+            <calle>String String</calle>
+            <piso>0</piso>
+            <cp>21</cp>
+            <ciudad>String</ciudad>
+        </direccion>
+        <direccion>
+            <calle>String String</calle>
+            <piso>0</piso>
+            <cp>22</cp>
+            <ciudad>String</ciudad>
+        </direccion>
+        <direccion>
+            <calle>String String</calle>
+            <piso>0</piso>
+            <cp>23</cp>
+            <ciudad>String</ciudad>
+        </direccion>
+        <telefono>String</telefono>
+    </cliente>
+    <cliente>
+        <apellido>String</apellido>
+        <apellido>String</apellido>
+        <direccion>
+            <calle>String String</calle>
+            <piso>0</piso>
+            <cp>31</cp>
+            <ciudad>String</ciudad>
+        </direccion>
+        <direccion>
+            <calle>String String</calle>
+            <piso>0</piso>
+            <cp>32</cp>
+            <ciudad>String</ciudad>
+        </direccion>
+        <direccion>
+            <calle>String String</calle>
+            <piso>0</piso>
+            <cp>33</cp>
+            <ciudad>String</ciudad>
+        </direccion>
+        <telefono>String</telefono>
+    </cliente>
+</clientes>

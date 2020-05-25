@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/aranx/OneDrive/Documentos/NetBeansProjects/AD_JAXB_Diccionario/diccionario.xsd" uri="xml-resources/jaxb/DiccionarioEspanol/diccionario.xsd"/>
+</catalog>

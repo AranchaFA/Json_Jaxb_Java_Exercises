@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='JSON_JAXB_Clientes' version='1.0'>
+	<schema type='-xmlschema' package='jaxb.clientes' name='JSON_JAXB_Clientes'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/JSON_JAXB_Clientes/clientes.xsd' origLocation='clientes.xsd'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+	<schema type='-xmlschema' package='jaxb.clientes' name='AD_JSON_JAXB_Clientes'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/AD_JSON_JAXB_Clientes/clientes.xsd' origLocation='clientes.xsd'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/aranx/OneDrive/Documentos/NetBeansProjects/JSON_JAXB_Clientes/clientes.xsd" uri="xml-resources/jaxb/JSON_JAXB_Clientes/clientes.xsd"/>
+    <system systemId="file:/C:/Users/aranx/OneDrive/Documentos/NetBeansProjects/AD_JSON_JAXB_Clientes/clientes.xsd" uri="xml-resources/jaxb/AD_JSON_JAXB_Clientes/clientes.xsd"/>
+</catalog>
